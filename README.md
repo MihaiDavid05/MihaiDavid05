@@ -1,6 +1,18 @@
 <h1 align="center">🐼 Mihai DAVID</h1>
 <h3 align="center">Data Scientist • Computer Vision Developer</h3>
 
+### About Me
+
+I am a mid-senior data scientist and machine learning researcher with **3+ years of experience**.
+
+🔥 My  <br/>
+
+💛 I <br/>
+
+🎨 I <br/>
+
+------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mihai-david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihai-david" height="30" width="40" /></a>
