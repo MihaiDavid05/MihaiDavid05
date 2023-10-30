@@ -5,7 +5,7 @@
 
 I am a mid-senior data scientist and machine learning researcher (focus on Computer Vision) with **3+ years of experience**.
 
-The fields I already applied my technical expertise in are: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**. 
+I've already used my technical expertise in the following fields: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**, and I'm eager to expand my knoweledge.
 
 🎓 EPFL Data Science Graduate
 
