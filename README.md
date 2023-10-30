@@ -3,13 +3,13 @@
 
 ### About Me
 
-I am a mid-senior data scientist and machine learning researcher with **3+ years of experience**. 
+I am a mid-senior data scientist and machine learning researcher (focus on Computer Vision) with **3+ years of experience**.
 
-**`Automotive • Food Sciences • Health • Sattelite and Drone Imagery`**
+The fields I already applied my technical expertise in are: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**. 
 
 🎓 EPFL Data Science Graduate
 
-💛 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
+💚 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
 
 ⚡ Totally opposite of my soul animal (also my name emoji), I love running, skiing, dancing and socializing <br/>
 
