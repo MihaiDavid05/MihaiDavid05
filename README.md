@@ -7,11 +7,13 @@ I am a mid-senior data scientist and machine learning researcher (focus on Compu
 
 I've already used my technical expertise in the following fields: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**, and I'm eager to explore more and expand my knowledge.
 
+------
+
 🎓 EPFL Data Science Graduate
 
 💚 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
 
-⚡ Totally opposite of my soul animal (also my name emoji), I love running, skiing, dancing and socializing <br/>
+⚡ Totally opposite of my soul animal (also my name emoji), I enjoy running, skiing, dancing and socializing <br/>
 
 ------
 
