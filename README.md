@@ -3,7 +3,7 @@
 **`Data Scientist • Computer Vision Developer`**
 
 <h1 align="center">Hi 👋, I'm Mihai DAVID</h1>
-<h3 align="center">Data Scientist • Computer Vision Developer</h3>
+<h3 align="center">`Data Scientist • Computer Vision Developer`</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
