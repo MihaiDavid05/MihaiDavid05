@@ -3,13 +3,13 @@
 
 ### About Me
 
-I am a mid-senior data scientist and machine learning researcher (focus on Computer Vision) with **3+ years of experience**.
+I am a mid-senior data scientist and machine learning researcher (focusing on Computer Vision) with **3+ years of experience**.
 
-I've already used my technical expertise in the following fields: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**, and I'm eager to explore more and expand my knowledge.
+My technological skills have already been put to use in the following areas: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**. I can't wait to learn more and go deeper into these areas, or explore new ones.
 
 ------
 
-🎓 EPFL Data Science Graduate
+🎓 EPFL Data Science Graduate (writing my thesis)
 
 💚 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
 
