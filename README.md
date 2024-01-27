@@ -5,15 +5,15 @@
 
 I am a mid-senior data scientist and machine learning researcher (focusing on Computer Vision) with **3+ years of experience**.
 
-My technological skills have already been put to use in the following areas: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics`**. I can't wait to learn more and go deeper into these areas, or explore new ones.
+My technological skills have already been put to use in the following areas: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics • Marketing`**. I am committed to helping your business or team achieve any technical goal by using the best coding practices, while leveraging state-of-the-art technologies.
 
 ------
 
-🎓 EPFL Data Science Graduate (writing my thesis)
+🎓 EPFL Data Science Graduate
 
 💚 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
 
-⚡ Totally opposite of my soul animal (also my name emoji), I enjoy running, skiing, dancing and socializing <br/>
+⚡ Totally opposite of my soul animal (my name emoji), I enjoy running, skiing, dancing and socializing <br/>
 
 ------
 
