@@ -9,7 +9,7 @@ My technological skills have already been put to use in the following areas: **`
 
 ------
 
-🎓 EPFL Data Science Graduate
+🎓 Data Science MSc @ EPFL
 
 💚 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
 
