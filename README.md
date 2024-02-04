@@ -1,11 +1,11 @@
 <h1 align="center">🐼 Mihai DAVID</h1>
-<h3 align="center">Data Scientist • Computer Vision Engineer</h3>
+<h3 align="center">Computer Vision Engineer • Data Scientist</h3>
 
 ### About Me
 
-I am a mid-senior data scientist and machine learning engineer (focusing on Computer Vision) with **3+ years of experience**.
+I am a mid-senior data scientist and machine learning engineer focusing on computer vision with **3+ years of experience**.
 
-My technological skills have already been put to use in the following areas: **`Automotive • Food Sciences • Health • Satellite and Drone Imagery • Politics • Marketing`**. I am committed to helping your business or team achieve any technical goal by using the best coding practices, while leveraging state-of-the-art technologies.
+My technological skills have already been put to use in the following areas: **`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**. I am committed to helping your business or team achieve any technical goal by using the best coding practices, while leveraging state-of-the-art technologies.
 
 ------
 
