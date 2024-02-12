@@ -5,7 +5,11 @@
 
 I am a mid-senior data scientist and machine learning engineer focusing on computer vision with **3+ years of experience**.
 
-I've had the privilege to contribute to impactful and complex projects from various areas, like: **`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**. Dedicated to driving success for your business or team, I leverage top-tier coding standards and the latest advancements in machine learning and data science to meet challenging technical objectives and deliver concrete results.
+I've had the privilege to contribute to impactful and complex projects from various areas, like:
+
+**`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**
+
+Dedicated to driving success for your business or team, I leverage top-tier coding standards and the latest advancements in machine learning and data science to meet challenging technical objectives and deliver concrete results.
 
 ------
 
@@ -13,7 +17,7 @@ I've had the privilege to contribute to impactful and complex projects from vari
 
 💚 I love visuals, vision generative AI, big datasets, modular and reproducible code, and challenging projects <br/>
 
-⚡ Totally opposite of my soul animal (my name emoji), I enjoy running, skiing, dancing and socializing <br/>
+⚡ Totally opposite of my soul animal (my name's emoji), I enjoy running, skiing, dancing and socializing <br/>
 
 ------
 
