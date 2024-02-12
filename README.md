@@ -5,13 +5,13 @@
 
 I am a mid-senior data scientist and machine learning engineer focusing on computer vision with **3+ years of experience**.
 
-My technological skills have already been put to use in the following areas: **`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**. I am committed to helping your business or team achieve any technical goal by using the best coding practices, while leveraging state-of-the-art technologies.
+I've had the privilege to contribute to impactful and complex projects from various areas, like: **`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**. Dedicated to driving success for your business or team, I leverage top-tier coding standards and the latest advancements in machine learning and data science to meet challenging technical objectives and deliver concrete results.
 
 ------
 
 🎓 Data Science MSc @ EPFL
 
-💚 I love visuals, big datasets, modular and reproducible code, and challenging projects <br/>
+💚 I love visuals, vision generative AI, big datasets, modular and reproducible code, and challenging projects <br/>
 
 ⚡ Totally opposite of my soul animal (my name emoji), I enjoy running, skiing, dancing and socializing <br/>
 
@@ -34,6 +34,8 @@ My technological skills have already been put to use in the following areas: **`
 - 📫 **davidmihai9805@gmail.com**
   
 - ☎️ +41 76 231 55 97
+
+- 💬 Calendly: https://calendly.com/mihai-david/30min
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mihai-david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mihai-david" height="30" width="40" /></a>
