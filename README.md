@@ -1,4 +1,4 @@
-<h1 align="center">🐼 Mihai DAVID</h1>
+<h1 align="center">🐼 Mihai David</h1>
 <h3 align="center">Machine Learning Engineer • Computer Vision • Data Science</h3>
 
 ### About Me
