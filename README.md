@@ -10,6 +10,7 @@ Proficient in Python, and PyTorch, I am committed to maintaining high coding sta
 **`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**
 
 ------
+### Quick facts
 
 🎓 Data Science MSc @ EPFL
 
