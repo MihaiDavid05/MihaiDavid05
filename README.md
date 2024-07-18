@@ -35,7 +35,7 @@ Proficient in Python, and PyTorch, I am committed to maintaining high coding sta
 
 - 📫 **davidmihai9805@gmail.com**
   
-- ☎️ +41 76 231 55 97
+- ☎️ +40 752166420
 
 - 💬 Calendly: https://calendly.com/mihai-david/30min
 
