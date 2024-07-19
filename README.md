@@ -7,7 +7,7 @@ I am a highly resourceful **machine learning engineer** and **data scientist** w
 
 Proficient in Python, and PyTorch, I am committed to maintaining high coding standards. As a strong collaborator with cross-functional teams, I stay current with industry advancements to enhance product performance and reliability. I am passionate about delivering impactful, data-driven solutions to high-tech organizations and clients. I've had the privilege to contribute to impactful and complex projects from various areas, like:
 
-**`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Marketing`**
+**`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Retail`**
 
 ------
 ### Quick facts
