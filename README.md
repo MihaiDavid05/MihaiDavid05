@@ -3,11 +3,11 @@
 
 ### About Me
 
-I am a highly resourceful **machine learning engineer** and **data scientist** with **4 years of expertise** in developing, researching, and leading end-to-end projects.
+I am a highly resourceful **machine learning engineer** with **6 years of expertise** in developing, researching, and leading end-to-end projects.
 
 Proficient in Python, and PyTorch, I am committed to maintaining high coding standards. As a strong collaborator with cross-functional teams, I stay current with industry advancements to enhance product performance and reliability. I am passionate about delivering impactful, data-driven solutions to high-tech organizations and clients. I've had the privilege to contribute to impactful and complex projects from various areas, like:
 
-**`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Retail`**
+**`Automotive • Food Sciences • Healthcare • Satellite and Drone Imagery • Politics • Retail • Traveling`**
 
 ------
 ### Quick facts
